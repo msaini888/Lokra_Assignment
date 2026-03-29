@@ -152,3 +152,6 @@ Run scripts in this order:
 5. open Power BI dashboard and refresh data
 
 Running scripts out of order may result in missing dependencies.
+
+
+Link to Live Dashboard -- [https://app.powerbi.com](https://app.powerbi.com/links/qllUmxoADD?ctid=2e30fe38-be4c-4a4a-a7e9-35b0cad54323&pbi_source=linkShare)
