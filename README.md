@@ -33,4 +33,3 @@ Chosen because:
 
 ---
 
-## Repository Structure
