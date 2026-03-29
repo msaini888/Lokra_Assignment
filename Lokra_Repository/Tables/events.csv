@@ -1,0 +1,21 @@
+event_id,user_id,session_id,event_type,product_id,page,referrer,device_type,created_at
+EVT001,USR001,SES001,productview,PRD001,/products,google.com,desktop,2026-01-05 09:00:00
+EVT002,USR001,SES001,addtocart,PRD001,/products,google.com,desktop,2026-01-05 09:05:00
+EVT003,USR001,SES001,checkoutstart,PRD001,/cart,,desktop,2026-01-05 09:08:00
+EVT004,USR001,SES001,purchase,PRD001,/checkout,,desktop,2026-01-05 09:10:00
+EVT005,USR002,SES002,productview,PRD002,/products,facebook.com,mobile,2026-01-08 10:00:00
+EVT006,USR002,SES002,addtocart,PRD002,/products,facebook.com,mobile,2026-01-08 10:03:00
+EVT007,USR003,SES003,productview,PRD003,/products,direct,tablet,2026-01-10 08:50:00
+EVT008,USR003,SES003,addtocart,PRD003,/products,direct,tablet,2026-01-10 08:54:00
+EVT009,USR003,SES003,checkoutstart,PRD003,/cart,,tablet,2026-01-10 08:57:00
+EVT010,USR003,SES003,purchase,PRD003,/checkout,,tablet,2026-01-10 09:00:00
+EVT011,USR004,SES004,productview,PRD004,/products,google.com,mobile,2026-01-12 13:00:00
+EVT012,USR005,SES005,productview,PRD005,/products,email,desktop,2026-01-15 11:00:00
+EVT013,USR005,SES005,addtocart,PRD005,/products,email,desktop,2026-01-15 11:04:00
+EVT014,USR005,SES005,checkoutstart,PRD005,/cart,,desktop,2026-01-15 11:07:00
+EVT015,USR005,SES005,purchase,PRD005,/checkout,,desktop,2026-01-15 11:10:00
+EVT016,USR006,SES006,productview,PRD006,/products,google.com,mobile,2026-01-18 07:50:00
+EVT017,USR007,SES007,productview,PRD007,/products,direct,desktop,2026-01-20 14:00:00
+EVT018,USR007,SES007,addtocart,PRD007,/products,direct,desktop,2026-01-20 14:05:00
+EVT019,USR008,SES008,productview,PRD008,/products,google.com,tablet,2026-01-22 09:00:00
+EVT020,USR009,SES009,productview,PRD009,/products,facebook.com,desktop,2026-01-25 12:00:00
