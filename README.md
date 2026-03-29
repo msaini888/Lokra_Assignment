@@ -34,13 +34,6 @@ Key characteristics:
 - schema defined using CREATE EXTERNAL TABLE
 - acts as source for staging layer
 
-Example structure:
-
-CREATE EXTERNAL TABLE raw.users  
-CREATE EXTERNAL TABLE raw.orders  
-CREATE EXTERNAL TABLE raw.products  
-CREATE EXTERNAL TABLE raw.events  
-
 ---
 
 ## Step 2 — STAGING Layer
